@@ -9,3 +9,6 @@ Then run your file
 
 How to run in Linux?
 
+Git clone https://github.com/e1itex/admin-panel.git
+
+This File is Property of Widane.com
